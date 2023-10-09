@@ -23,3 +23,11 @@ The generative AI model is trained on a dataset of multispectral images with fir
 The backend also calculates the geographic coordinates of the image corners based on the metadata of the image. It then converts the coordinates to a format that can be used by Leaflet, a JavaScript library for interactive maps.
 
 The front end application displays the original image and the fire mask on a Leaflet map, using the coordinates provided by the backend. The user can zoom in and out, pan, and toggle the layers to see the fire hotspots more clearly.
+
+## Credit
+
+- **Aishik Sanyal** ([@Xcellect](https://github.com/Xcellect))
+- **Jasper Grant** ([@JasperGrant](https://github.com/JasperGrant))
+- **Aniq Elahi** ([@Aniq-byte](https://github.com/Aniq-byte))
+- **Paras Nath Seth** ([@parass05](https://github.com/parass05))
+- **Christian Simoneau** ([@ChrisSimoneau](https://github.com/ChrisSimoneau))
