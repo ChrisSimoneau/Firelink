@@ -1,6 +1,6 @@
-# FireLink
+# Firelink Frontend
 
-FireLink is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
+Firelink is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
 
 ## Quickstart
 
