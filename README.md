@@ -1,13 +1,13 @@
 # Firelink Frontend
 
-Firelink is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
+Firelink (formermly known as Firewatch) is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images. 
 
 ## Quickstart
 
 To run the project locally, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/Spaceapps-Firewatch/FireLink-Backend.git`.
-2. Navigate to the project directory using `cd FireLink-Backend`.
+1. Clone the repository using `git clone https://github.com/Spaceapps-Firewatch/Firewatch-Frontend`.
+2. Navigate to the project directory using `cd Firewatch-Frontend`.
 3. Install the dependencies using `npm install`.
 4. Run the front end application using `npm run start`.
 5. Open your browser and go to `http://localhost:3000`.
