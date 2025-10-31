@@ -1,4 +1,6 @@
 # Firelink
+Firelink is a real time updatable satellite and aerial photography map that allows for up to the second information about fires and other natural disasters. The software's map view is accessible to the public through the internet and takes the guesswork out of rapidly changing dangerous situations. The software's REST API is accessible by emergency personnel. They are able to submit different forms of aerial photos which will be mapped to the map view. Also included in the software is automatic fire detection on submitted images. This is performed by an open source UNET transformer model trained on wildfire satellite images. Various metrics can be recorded from Firelink such as total burn area.
+
 2nd place Nationally in the CSA Space Apps Moonwalker challenge https://www.asc-csa.gc.ca/eng/news/articles/2023/2023-12-21-space-apps-challenge-2023-congratulations-to-the-winners.asp
 
 Global Nominee in the NASA 2023 Space Apps Challenge https://www.spaceappschallenge.org/2023/find-a-team/firelink/?tab=details
