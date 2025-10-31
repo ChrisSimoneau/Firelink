@@ -1,7 +1,7 @@
-Firelink Frontend
+# Firelink Frontend
 Firelink (formermly known as Firewatch) is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
 
-Quickstart
+## Quickstart
 To run the project locally, follow these steps:
 
 Clone the repository using git clone https://github.com/Spaceapps-Firewatch/Firewatch-Frontend.
@@ -20,10 +20,10 @@ The backend also calculates the geographic coordinates of the image corners base
 
 The front end application displays the original image and the fire mask on a Leaflet map, using the coordinates provided by the backend. The user can zoom in and out, pan, and toggle the layers to see the fire hotspots more clearly.
 
-Firelink Backend
+## Firelink Backend
 Firelink Backend is a Python application that provides the core functionality for the Firelink web application. It uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
 
-Quickstart
+## Quickstart
 To run the project locally, follow these steps:
 
 Clone the repository using git clone https://github.com/Spaceapps-Firewatch/FireLink-Backend.git.
@@ -40,10 +40,10 @@ The backend also calculates the geographic coordinates of the image corners base
 
 The backend can either display the original image and the fire mask on a Streamlit dashboard, or return them as JSON data to the front end application via the API endpoint. The user can zoom in and out, pan, and toggle the layers to see the fire hotspots more clearly.
 
-Credit
+## Credit
 ML model: https://github.com/yueureka/WildFireDetection (Used with permissions)
 
-Credit
+## Team Firelink
 Aishik Sanyal (@Xcellect)
 Jasper Grant (@JasperGrant)
 Aniq Elahi (@Aniq-byte)
