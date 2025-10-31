@@ -1,4 +1,9 @@
-# Firelink Frontend
+# Firelink
+2nd place Nationally in the CSA Space Apps Moonwalker challenge https://www.asc-csa.gc.ca/eng/news/articles/2023/2023-12-21-space-apps-challenge-2023-congratulations-to-the-winners.asp
+
+Global Nominee in the NASA 2023 Space Apps Challenge https://www.spaceappschallenge.org/2023/find-a-team/firelink/?tab=details
+
+## Firelink Frontend
 Firelink (formermly known as Firewatch) is a web application that uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
 
 ## Quickstart
